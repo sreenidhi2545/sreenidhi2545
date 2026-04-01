@@ -48,10 +48,10 @@
 
 ### 📌 About Me
 - 🎓 B.Tech CSE @ KL University
-- 🔐 Exploring ML for cybersecurity (Network IDS, anomaly detection)
-- 🤖 AI Agent Architect — built multi-agent systems at hackathons
-- ♟️ Chess · 🎵 Original music (songwriting) · 💜 BTS
-- 📈 Long-term plan: GATE/PSU → Startup (SkillSphere)
+- 🔐 Building at the intersection of ML and cybersecurity
+- 🤖 AI Agent Architect — shipped multi-agent systems under hackathon pressure
+- 🧠 Pattern thinker. I don't just write code — I engineer systems with intent
+- 🎯 Wired for discipline: GATE/PSU first, then building something that matters
 
 ---
 

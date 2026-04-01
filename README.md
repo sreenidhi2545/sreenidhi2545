@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>CS Undergrad · ML & Cybersecurity · Agentic AI · GATE CSE 2027</b><br>
-  KL University, Andhra Pradesh, India
+  Stanley College Of Engineering and Technology for Women, India
 </p>
 
 <p align="center">

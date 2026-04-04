@@ -47,7 +47,7 @@
 ---
 
 ### 📌 About Me
-- 🎓 B.Tech CSE @ KL University
+- 🎓 B.Tech CSE
 - 🔐 Building at the intersection of ML and cybersecurity
 - 🤖 AI Agent Architect — shipped multi-agent systems under hackathon pressure
 - 🧠 Pattern thinker. I don't just write code — I engineer systems with intent
